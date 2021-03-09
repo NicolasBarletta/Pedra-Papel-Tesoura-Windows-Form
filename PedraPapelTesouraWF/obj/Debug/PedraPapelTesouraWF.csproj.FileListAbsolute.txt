@@ -1,0 +1,10 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\bin\Debug\PedraPapelTesouraWF.exe.config
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\bin\Debug\PedraPapelTesouraWF.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\bin\Debug\PedraPapelTesouraWF.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.Form1.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.Properties.Resources.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.csproj.GenerateResource.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesouraWF\obj\Debug\PedraPapelTesouraWF.pdb
